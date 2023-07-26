@@ -1,5 +1,5 @@
 # Plazza
-Le but de ce projet était de nous faire réaliser une simulation d'une pizzeria, qui se compose de la réception qui accepte les nouvelles commandes, de plusieurs cuisines, elles-mêmes avec plusieurs cuisiniers, qui eux-mêmes cuisine plusieurs pizzas.
+Le but de ce projet de Epitech était de nous faire réaliser une simulation d'une pizzeria, qui se compose de la réception qui accepte les nouvelles commandes, de plusieurs cuisines, elles-mêmes avec plusieurs cuisiniers, qui eux-mêmes cuisine plusieurs pizzas.
 Le projet nous a apprit à traiter différents problèmes, notamment l'équilibrage de charge, la synchronisation des processus et des threads
 et la communication.
 Voici ce que nous avons utilisé dans ce projet :
